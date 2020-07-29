@@ -10,7 +10,7 @@ por meio das redes sociais com intuito de formar hábitos saudáveis de desenvol
 ### _Regras:_
 
 * Desenvolver por no mínimo uma hora por dia durante os próximos 100 dias.
-_[Inicío 24/07/2020]_
+_[Inicío 28/07/2020]_
 
 ### _Stacks:_
 
